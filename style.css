@@ -1,0 +1,34 @@
+body {
+    font-family: 'Impact', 'Comic Sans', 'Comic Sans MS', 'Haettenschweiler', 'Arial', sans-serif;
+    font-size:xx-large;
+    color: black;
+    background-color: bisque;
+    margin: 2% 10%;
+    padding: 10%;
+}
+
+p {
+    max-width: 600px;
+    background-color: lime;
+    padding: 2%;
+}
+
+.control {
+    color: purple;
+    background-color: white;
+}
+
+.pilot1 {
+    color: darkred;
+    background-color: orange;
+}
+
+.pilot2 {
+    color: pink;
+    background-color: blueviolet;
+}
+
+.pilot3 {
+    color: yellow;
+    background-color: indigo;
+}
